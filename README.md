@@ -1,14 +1,25 @@
 # Hi there, I'm Eira! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <h3 align="center"> <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="40"> Eira Mazón |  Front-end Developer |  Mexico <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="40"></h3>
+<h5 align="center"> you can find me on... <br>
+<a href="https://www.linkedin.com/in/eira-mazon/" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"/></a>
+<a href="https://www.hackerrank.com/eira_b_mazon" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" width="45" /></a>
+<a href="https://www.instagram.com/neveiram/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" width="40"/></a>
+<a href="mailto:eira.b.mazon@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/email.png/" width="48"></a>
+
+ </h5>
 
 
 I’m passionate about programming because I enjoy the challenges and creative solutions I find in it!  
 
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/uZlvdY1tP1MMEEuF56/giphy.gif"/>  
-- Front-end Developer student at [Laboratoria](https://www.laboratoria.la/)  
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.gif"/>
+
+<p>
+Student at [Laboratoria](https://www.laboratoria.la/) 
 <img src="https://media.giphy.com/media/cklgGnCMnaoWrZW57c/giphy.gif" height="35">
+ </p>
+
 
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Languages and Tools:
@@ -48,3 +59,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
