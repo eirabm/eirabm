@@ -6,19 +6,18 @@
 <a href="https://www.hackerrank.com/eira_b_mazon" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" width="45" /></a>
 <a href="https://www.instagram.com/neveiram/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" width="40"/></a>
 <a href="mailto:eira.b.mazon@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/email.png/" width="48"></a>
-
+<a href=""><img src="https://img.icons8.com/dusk/64/000000/domain.png"/ width="40"></a>
  </h5>
 
 
-I’m passionate about programming because I enjoy the challenges and creative solutions I find in it!  
-
-
+I’m passionate about programming because I enjoy the challenges and creative solutions I find in it!
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.gif"/>
 
-<p>
-Student at [Laboratoria](https://www.laboratoria.la/) 
-<img src="https://media.giphy.com/media/cklgGnCMnaoWrZW57c/giphy.gif" height="35">
- </p>
+- Student at [Laboratoria](https://www.laboratoria.la/) 
+- On my way of becoming a Full Stack developer :sparkles: 
+- Interested in game development 🎮  
+- Fun fact: I used to work at a Starbucks and did basic latte art :coffee:    
+- <img src="https://media.giphy.com/media/cklgGnCMnaoWrZW57c/giphy.gif" height="35">
 
 
 
@@ -32,13 +31,15 @@ Student at [Laboratoria](https://www.laboratoria.la/)
 <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
 
+I love learning new things and I hope to keep adding to this list! :muscle:  
 
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=eirabm&&show_icons=true&bg_color=B6666F&&title_color=E6B655&&text_color=FFFFFF&&icon_color=aaaaaa&&hide_border=true"/>  </a>
+### <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="55"> My stats:
 
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eirabm&count_private=true&show_icons=true&include_all_commits=true&bg_color=B6666F&&title_color=E6B655&&text_color=FFFFFF&&icon_color=aaaaaa&&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirabm&bg_color=E6B655&&title_color=B6666F&&text_color=FFFFFF&&hide_border=true)
+
+<!-- ### <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="50"> My projects: -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/Uq4wQcTg1cFaYk97rW/giphy.gif" width="300"/>
