@@ -25,6 +25,7 @@ I’m passionate about programming because I enjoy the challenges and creative s
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="50" height="50"/></a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/123215107-a8a82080-d48d-11eb-8902-6490d4174ba0.gif" alt="sass" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="50" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="50" height="50"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
