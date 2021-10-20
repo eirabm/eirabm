@@ -13,7 +13,8 @@
 I’m passionate about programming because I enjoy the challenges and creative solutions I find in it!
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.gif"/>
 
-- Student at [Laboratoria](https://www.laboratoria.la/) 
+- Developer at [Enroute Systems](https://enroutesystems.com/)
+- Graduate from [Laboratoria](https://www.laboratoria.la/) 
 - On my way of becoming a Full Stack developer :sparkles: 
 - Interested in game development 🎮  
 - Fun fact: I used to work at a Starbucks and did basic latte art :coffee:    
@@ -27,9 +28,12 @@ I’m passionate about programming because I enjoy the challenges and creative s
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="50" height="50"/></a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/123215107-a8a82080-d48d-11eb-8902-6490d4174ba0.gif" alt="sass" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/138184684-faca6265-13d6-4e3a-9beb-f0ba3b0766cd.gif" alt="Typescript" width="42" height="42"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="50" height="50"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a>
+<a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/138184761-18a93257-7a71-4c38-ab8d-fbd567967790.gif" alt="redux" width="45" height="45"/> </a>
+<a href="https://nx.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/138184831-a1d4b9e7-0d6e-48d4-9e10-5569ee925eea.gif" alt="nx" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
 
 I love learning new things and I hope to keep adding to this list! :muscle:  
