@@ -33,6 +33,7 @@ I’m passionate about programming because I enjoy the challenges and creative s
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a>
 <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/138184761-18a93257-7a71-4c38-ab8d-fbd567967790.gif" alt="redux" width="45" height="45"/> </a>
+<a href="https://testing-library.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/167963666-2e5aee8d-20bc-49db-bda2-56e41015c226.gif" alt="testing library" width="45" height="45"/> </a>
 <a href="https://nx.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/66543426/138184831-a1d4b9e7-0d6e-48d4-9e10-5569ee925eea.gif" alt="nx" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
 
